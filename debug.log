@@ -1,0 +1,6 @@
+[1201/070225.885:ERROR:process_info.cc(632)] range at 0x7b8f2f0400000000, size 0x1c6 fully unreadable
+[1201/070228.164:ERROR:process_info.cc(632)] range at 0x7b8f2f2400000000, size 0x1c6 fully unreadable
+[1201/070228.164:ERROR:process_info.cc(632)] range at 0x0, size 0x1c6 fully unreadable
+[1201/070607.627:ERROR:process_reader_win.cc(242)] ReadMemory at 0xbf167f2000 of 57344 bytes failed: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1201/070607.945:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[1201/070609.463:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose.  (0xc000010a)

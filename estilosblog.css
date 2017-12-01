@@ -1,0 +1,14 @@
+body{
+  background-image: url(images/patrones-032.png);
+  font-family: 'Source Code Pro', monospace;
+
+  }
+
+h1{
+ color: red;
+}
+
+.bloggrid{
+  display: grid;
+  grid-template-columns: repeat(4,1fr)
+}
